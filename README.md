@@ -14,3 +14,6 @@
 * create passport setup
 * modify /auth/google
 * move secret Google key to another folder
+
+### branch lesson03
+* get user profile and email from Google
